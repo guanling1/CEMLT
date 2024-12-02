@@ -3,4 +3,5 @@ CEMLT is the real availability data for the paper "Multilingual natural scene te
 # Get CEMLT
 You can obtain CEMLT data through the following method:
 Link: https://pan.baidu.com/s/1vGjuetjfTofRGrrlMUUddQ
-Password: Please use the following email address 483612289@qq.com Contact me to obtain the password.
+Password: Please contact me using the following email address to obtain the password.
+E-mail: 483612289@qq.com
